@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Cheyenne Beacraft
  */
 
 public class Class2 {
